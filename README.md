@@ -1,5 +1,5 @@
 # Beasiswa Event Brawijaya (BEBE)
-BEBE is a web-based online system related to scholarship events at Universitas Brawijaya using PHP, HTML, CSS, and SQL.
+Beasiswa Event Brawijaya (BEBE) is a web-based online system related to scholarship events at Brawijaya University using PHP, HTML, CSS, and SQL.
 
 Tujuan :
 - Membantu mahasiswa & mahasiswi UB untuk lebih mudah mencari dan mendapatkan informasi tentang beasiswa secara lengkap dalam satu sistem.
